@@ -19,7 +19,7 @@
 &nbsp;
 
 ---
-### Web-Solutions-EM is a website for a company that designs and develops applications and websites for clients in various business areas.
+### Web Solutions EM is a website for a company that designs and develops applications and websites for clients in various business areas.
 
 ### This site consists of several sections and blocks with content and information: the title section with navigation and a burger for mobile devices; section with information about the company and its capabilities; section with company services; portfolio section with content filtering; section with tariff plans; section with employees of the company; news blog section; and a section with company contacts and feedback.
 
