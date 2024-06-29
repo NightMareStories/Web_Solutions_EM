@@ -1,0 +1,29 @@
+{
+  "name": "web_solutions_em",
+  "version": "1.1.0",
+  "description": "Web-Solutions-EM is a website for a company that designs and develops applications and websites for clients in various business areas. This website is developed with 'Bootstrap' and 'JavaScript' library using 'jQuery' library and third party 'Slick Slider' slider to scroll the content on the page.",
+  "type": "commonjs",
+  "scripts": {
+    "clean": "rm -rf node_modules",
+    "update": "npm update --save-dev && npm update --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightMareStories/Web_Solutions_EM.git"
+  },
+  "keywords": [
+    "Site",
+    "HTML5",
+    "CSS3",
+    "Bootstrap 5",
+    "JavaScriptES6",
+    "jQuery",
+    "Slick Slider"
+  ],
+  "author": "NightMareStories",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NightMareStories/Web_Solutions_EM/issues"
+  },
+  "homepage": "https://github.com/NightMareStories/Web_Solutions_EM#readme"
+}
