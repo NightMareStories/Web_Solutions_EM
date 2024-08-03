@@ -63,7 +63,7 @@ $(function () {
     /* drop-down menu */
 
     $('.menu-icon').click(function () {
-        $('nav').slideToggle(500);
+        $('.navigation').slideToggle(500);
         $('ul.menu').css({
             'display': 'flex'
         })
