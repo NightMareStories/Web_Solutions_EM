@@ -384,6 +384,7 @@ div[filter]:hover .text {
     margin: 0 auto;
     max-width: 340px;
     height: 230px;
+    border-radius: 20px;
 }
 
 .icons {
